@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a web developer proficient in frontend modules including TS JS CSS(TAILWIND / BOOTSTRAP) FRAMEWORKS : (REACT/EXPRESS/NEXT) BACKEND NODE JS MONGO DB DEVOPS INCLUDING GSC SEO DOCKER ETC 
+Full-Stack Web Developer with hands-on experience in building modern, responsive, and scalable web applications. Skilled in frontend technologies like TypeScript, JavaScript, Tailwind CSS, and React/Next.js, with a solid backend foundation using Node.js, Express, and MongoDB.
+
+I focus on delivering clean code, performance optimization, and SEO-friendly solutions, supported by DevOps tools like Docker and Google Search Console to ensure production-ready deployments.
 
 
 ## 🌐 Socials:
