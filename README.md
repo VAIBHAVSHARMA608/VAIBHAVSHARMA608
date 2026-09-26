@@ -1,26 +1,3 @@
-# Hi, I'm Vaibhav Sharma 👋
-
-Full-Stack Web Developer building AI-powered web products — currently co-founding **Kapstone Healthcare**, with 25+ shipped projects across AI, healthcare, IoT and e-commerce.
-
----
-
-## 🖥️ Featured Project — Vaibhav CLI
-
-> A terminal-based interactive developer portfolio — explore my background, skills and projects without leaving the command line.
-
-<!-- Replace this with your recorded demo.gif once you have one (see step 3 in the guide) -->
-![demo](https://raw.githubusercontent.com/VAIBHAVSHARMA608/vaibhav-cli/main/demo.gif)
-
-```bash
-git clone https://github.com/VAIBHAVSHARMA608/vaibhav-cli.git
-cd vaibhav-cli && pip install -r requirements.txt && python main.py
-```
-
-[![Repo](https://img.shields.io/badge/View%20Repo-vaibhav--cli-black?style=for-the-badge&logo=github)](https://github.com/VAIBHAVSHARMA608/vaibhav-cli)
-[![Portfolio](https://img.shields.io/badge/Live%20Portfolio-vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://about-me-chi-olive.vercel.app/)
-
----
-
 # 💫 About Me:
 Full-Stack Web Developer with hands-on experience in building modern, responsive, and scalable web applications. Skilled in frontend technologies like TypeScript, JavaScript, Tailwind CSS, and React/Next.js, with a solid backend foundation using Node.js, Express, and MongoDB.
 
