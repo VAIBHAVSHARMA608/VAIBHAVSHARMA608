@@ -177,4 +177,12 @@
     alt="GitHub Contribution Snake"
   />
 </p>
-![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Build%20.%20Break%20.%20Understand%20.%20Rebuild&theme=dark&color=%23ffffff&particleColor=%23270c0c&background=%23000000)
+<div align="center">
+
+<img
+  src="https://readme-stats-github.pages.dev/api/typing?lines=Build%20.%20Break%20.%20Understand%20.%20Rebuild&theme=dark&color=%23ffffff&particleColor=%23270c0c&background=%23000000"
+  alt="Build Break Understand Rebuild"
+/>
+
+</div>
+
